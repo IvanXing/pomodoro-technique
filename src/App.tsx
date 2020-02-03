@@ -39,7 +39,7 @@ export default function App() {
       </div>
     </Router>
   );
-}
+} 
 
 function Home() {
   return <h2>Home</h2>;
